@@ -41,7 +41,7 @@ The MVP of this assignment will be broken up between 2 stages.
 Style your application using Tailwind CSS!
 
 - [ ] Make sure all components are showing properly
-- [ ] Use Tailwind CSS to style and make your application look like [this image]((/screencapture.png)
+- [ ] Use Tailwind CSS to style and make your application look like [this image](/screencapture.png)
 - [ ] You can reference the [Tailwind CSS Website](https://tailwindcss.com) for help.
 
 ### Stage 1
